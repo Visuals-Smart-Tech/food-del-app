@@ -28,7 +28,7 @@ const Footer = () => {
                 <h2>GET INTO TOUCH</h2>
                 <ul>
                     <li>+1-212-212-2145</li>
-                    <li>contact@tomato.com</li>
+                    <li>contact@zomato.com</li>
                 </ul>
             </div>
         </div>
